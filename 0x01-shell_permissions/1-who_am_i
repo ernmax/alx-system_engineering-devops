@@ -1,4 +1,2 @@
-id -un
-id -un
-id -un
-id -un
+#!/bin/bash
+1-who_am_i
