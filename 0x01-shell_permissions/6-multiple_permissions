@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 771 hello\na
+chmod o+rwx ,g+rwx ,u+r hello\na
