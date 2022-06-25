@@ -1,2 +1,2 @@
 #!/bin/bash
-su chmod 744 hello \na
+chmod u+x  hello \na
