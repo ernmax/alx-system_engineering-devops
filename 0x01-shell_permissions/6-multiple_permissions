@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 771 hello\na
+sudo chmod 771 hello\na
